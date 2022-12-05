@@ -106,8 +106,7 @@ body {
     font-size: 0.75rem;
     letter-spacing: 0.2rem;
     margin: auto;
-    text-shadow: -1px -1px black;
-
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.4)
 }
 
 .content-rating h1 {

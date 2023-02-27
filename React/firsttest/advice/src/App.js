@@ -24,9 +24,9 @@ function App() {
             <div className="container">
                 <p className="pHeader">Advice #<span>{id}</span></p>
                 <p className="pAdvice">"{advice}"</p>
-                <img className="divider" src={divider}></img>
+                <img alt="" className="divider" src={divider}></img>
                 <button className="diceContainer">
-                    <img className="dice" src={dice} onClick={() => window.location.reload()}></img>
+                    <img alt="" className="dice" src={dice} onClick={() => window.location.reload()}></img>
                 </button>
             </div>
         </div >

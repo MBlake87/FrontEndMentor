@@ -1,0 +1,10 @@
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: #ECF9FF;
+    border: solid 3px black;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
